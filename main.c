@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("hello feature \n");
+    printf("hello main \n");
 }
